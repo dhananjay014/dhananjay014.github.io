@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hello, this is the first github io page I am preparing. This page may (or may not) get future developments.
+Hello, this is the first github.io page I am preparing. This page may (or may not) get future developments.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
