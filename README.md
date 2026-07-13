@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+## Study Guides
 
-Hello, this is the first github.io page I am preparing. This page may (or may not) get future developments.
+Technical references for topics I am learning and revising.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Feature Interactions
 
-### Jekyll Themes
+A visual and mathematical guide to Factorization Machines, Wide & Deep,
+DeepFM, xDeepFM, DCN v1 and v2, AutoInt, DHEN, and Wukong. It includes
+computation graphs, forward-pass derivations, tensor shapes, caveats,
+comparisons, interview questions, and the primary papers.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dhananjay014/dhananjay014.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-[This is the image](https://pbs.twimg.com/media/Eiig-lGUMAIkScu?format=jpg&name=900x900)
+[Open the Feature Interactions guide](https://dhananjay014.github.io/htmls/ML%20-%20Feature%20Interactions/)
