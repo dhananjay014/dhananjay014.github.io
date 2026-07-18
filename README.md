@@ -1,12 +1,17 @@
-## Study Guides
+## Machine Learning Field Guides
 
-Technical references for topics I am learning and revising.
+Visual, mathematical, and interview-ready references for topics I am learning
+and revising. The guides build intuition from scratch, derive the core math,
+trace worked examples, explain diagrams, and include the primary papers for
+offline reading.
 
-### Feature Interactions
+### [Open the complete field-guide library →](https://dhananjay014.github.io/htmls/)
 
-A visual and mathematical guide to Factorization Machines, Wide & Deep,
-DeepFM, xDeepFM, DCN v1 and v2, AutoInt, DHEN, and Wukong. It includes
-computation graphs, forward-pass derivations, tensor shapes, caveats,
-comparisons, interview questions, and the primary papers.
+### Individual guides
 
-[Open the Feature Interactions guide](https://dhananjay014.github.io/htmls/ML%20-%20Feature%20Interactions/)
+- [Feature Interactions](https://dhananjay014.github.io/htmls/ML%20-%20Feature%20Interactions/) — FM, Wide & Deep, DeepFM, xDeepFM, DCN v1/v2, AutoInt, DHEN, and Wukong.
+- [HSTU](https://dhananjay014.github.io/htmls/ML%20-%20HSTU/) — generative recommendation, pointwise attention, long histories, and systems co-design.
+- [Semantic IDs](https://dhananjay014.github.io/htmls/ML%20-%20Semantic%20IDs/) — RQ-VAE, TIGER generative retrieval, and the discrete scaling bottleneck.
+- [Multimodal MMoE](https://dhananjay014.github.io/htmls/ML%20-%20Multimodal%20MMoE/) — redundant, unique, and synergistic interactions with specialized experts and routing.
+- [OneRec](https://dhananjay014.github.io/htmls/ML%20-%20OneRec/) — unified retrieve-and-rank, balanced item tokens, sparse MoE, and iterative preference alignment.
+- [PPO & GRPO](https://dhananjay014.github.io/htmls/RL%20-%20PPO%20and%20GRPO/) — policy gradients, advantage estimation, clipping, worked updates, and failure modes.
