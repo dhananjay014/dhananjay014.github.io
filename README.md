@@ -11,6 +11,7 @@ offline reading.
 
 - [Feature Interactions](https://dhananjay014.github.io/htmls/ML%20-%20Feature%20Interactions/) — FM, Wide & Deep, DeepFM, xDeepFM, DCN v1/v2, AutoInt, DHEN, and Wukong.
 - [Self-Attention & Multi-Head Attention](https://dhananjay014.github.io/htmls/ML%20-%20Self%20Attention%20and%20Multi-Head%20Attention/) — embeddings, complete Q/K/V projections, scaled scores, masks, row-wise softmax, two worked heads, output projection, residuals, LayerNorm, and production tensor shapes.
+- [Activation Functions & SwiGLU](https://dhananjay014.github.io/htmls/ML%20-%20Activation%20Functions%20and%20SwiGLU/) — sigmoid, tanh, ReLU, GELU, SiLU, gradient flow, Transformer residual context, and a complete numerical SwiGLU calculation.
 - [HSTU](https://dhananjay014.github.io/htmls/ML%20-%20HSTU/) — generative recommendation, pointwise attention, long histories, and systems co-design.
 - [Semantic IDs](https://dhananjay014.github.io/htmls/ML%20-%20Semantic%20IDs/) — RQ-VAE, TIGER generative retrieval, and the discrete scaling bottleneck.
 - [Sparse MoE (Shazeer et al.)](https://dhananjay014.github.io/htmls/ML%20-%20Multimodal%20MMoE/#shazeer) — noisy top-k gating, conditional computation, expert load balancing, and a worked routing example.
